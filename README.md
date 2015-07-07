@@ -5,8 +5,10 @@
 Coloring algorithm tree
 
 Tree coloring algorithm with the maxim 3 colors.
-Algorithm is divided into two stages:
+Algorithm is divided into two stages: 
+</br>
    1 - Run algorithm that reduces the nodes value with a maximum value of 6 (SixTree)
+</br>
    2 - Run algorithm that reduces the nodes value with a maximum value of 3 (Six2Three)
 
 To perform follow these steps:
@@ -20,7 +22,9 @@ To perform follow these steps:
 #pt
 Algoritmo de coloração de arvore com no maxim 3 cores.
 Algoritmo é divido em duas etapas: 
+</br>
   1 - Executar algoritmo que reduz os nós com valor maximo de 6(SixTree) 
+  </br>
   2 - Executar algoritmo que reduz os nós com valor maximo de 3(Six2Three)
 
 Para executar siga os seguintes passos:
