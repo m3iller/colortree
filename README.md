@@ -1,4 +1,16 @@
-# colortree
+# Colortree
+#us
+Coloring algorithm tree
+
+To perform follow these steps:
+
+1 - Download the tomcat 7 and copy the file colortree.war within the directory / server / deploy to the Tomcat webapps directory
+
+2 - Start the tomcat
+
+3 - Go to page tree.html inside the front folder.
+
+#pt
 Algoritmo de coloração de arvore
 
 Para executar siga os seguintes passos:
