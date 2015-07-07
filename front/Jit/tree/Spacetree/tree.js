@@ -55,7 +55,7 @@ $(document).ready(function () {
 
 function arvoreSix() {
      $.ajax({
-                url  : "http://localhost:8081/colortree/rest/getSixColor",
+                url  : "http://localhost:8080/colortree/rest/getSixColor",
                 type : "GET",
                 crossDomain: true,
                 contentType: "application/json; charset=utf-8",
@@ -85,7 +85,7 @@ function arvoreSix() {
 
 function arvoreInicial() {
      $.ajax({
-                url  : "http://localhost:8081/colortree/rest/getTreeInicial",
+                url  : "http://localhost:8080/colortree/rest/getTreeInicial",
                 type : "GET",
                 crossDomain: true,
                 contentType: "application/json; charset=utf-8",
@@ -114,7 +114,7 @@ function arvoreInicial() {
 
 function arvoreFinal() {
      $.ajax({
-                url  : "http://localhost:8081/colortree/rest/getTreeFinal",
+                url  : "http://localhost:8080/colortree/rest/getTreeFinal",
                 type : "GET",
                 crossDomain: true,
                 contentType: "application/json; charset=utf-8",
@@ -256,7 +256,7 @@ function init(json){
     });
 
         $.ajax({
-                url  : "http://localhost:8081/colortree/rest/getTreeInicial",
+                url  : "http://localhost:8080/colortree/rest/getTreeInicial",
                 type : "GET",
                 crossDomain: true,
                 contentType: "application/json; charset=utf-8",
