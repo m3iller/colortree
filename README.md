@@ -20,7 +20,9 @@ To perform follow these steps:
 3 - Go to page tree.html inside the front folder.
 
 #pt
-Algoritmo de coloração de arvore com no maxim 3 cores.
+Coloração de arvore
+
+Algoritmo de coloração de arvore com no maximo 3 cores.
 Algoritmo é divido em duas etapas: 
 </br>
   1 - Executar algoritmo que reduz os nós com valor maximo de 6(SixTree) 
