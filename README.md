@@ -4,7 +4,7 @@ Coloring algorithm tree
 
 To perform follow these steps:
 
-1 - Download the tomcat 7 and copy the file colortree.war within the directory / server / deploy to the Tomcat webapps directory
+1 - Download the tomcat 7 and copy the file colortree.war in the directory /server/deploy to the Tomcat webapps directory
 
 2 - Start the tomcat
 
@@ -21,3 +21,5 @@ Para executar siga os seguintes passos:
 2 - Inicie o tomcat
 
 3 - Acesse a pagina tree.html dentro da pasta front.
+
+
